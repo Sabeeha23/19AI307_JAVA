@@ -51,6 +51,7 @@ public class Details{
 
 
 ## OUTPUT:
+<img width="688" height="262" alt="image" src="https://github.com/user-attachments/assets/abf04f3c-f39a-434c-a5b7-0dc023274cbd" />
 
 
 
