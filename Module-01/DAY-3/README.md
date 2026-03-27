@@ -4,18 +4,30 @@
 To write a java Program to print square of the value.
 
 ## ALGORITHM :
-1. Start the program.
-2. Import the Scanner class to read input from the user.
-3. Define a class named Demo.
-4.Inside the class, define a method check(int num) that:
-5.Calculates the square of the number.
-6.Prints the squared result.
-7.In the main() method:
-8.Create a Scanner object to take input.
-9.Read an integer input and store it in the variable num.
-10.Create an object s of the Demo class.
-11.Call the check(num) method using the object s.
-12.End the program.
+
+1.Start the program.
+   
+2.Import the Scanner class to read input from the user.
+  
+3.Define a class named Demo.
+ 
+5.Inside the class, define a method check(int num)
+
+6.Calculates the square of the number.
+
+7.Prints the squared result.
+
+8.In the main() method:
+
+9.Create a Scanner object to take input.
+
+10.Read an integer input and store it in the variable num.
+
+11.Create an object s of the Demo class.
+
+12.Call the check(num) method using the object s.
+
+13.End the program.
 
 
 
@@ -55,7 +67,8 @@ public static void main(String[] args)
 
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="351" height="161" alt="Screenshot 2026-03-27 234816" src="https://github.com/user-attachments/assets/030d958d-aded-4af4-b950-4be921afee7b" />
+
 
 
 
